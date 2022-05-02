@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+h1 {
+	color: black;
+}
+
+#header {
+	background-color: lightgray;
+}
+
+/* .container {
+	margin-top: 200px;
+} */
