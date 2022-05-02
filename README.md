@@ -10,6 +10,8 @@ MP4 link: https://drive.google.com/file/d/1z2aEsuCcYBwYIJtQA4cPGC0fLfA-jwo9/view
 
 Might need to get scarlet and tomcat server running. Can supply if requested.
 
+Link to the old repository (needed a new repo to push new changes, explained in video): https://github.com/ssarthak01/WeatherSimulationApp
+
 Java version 11
 Tomcat version 10.0.3
 Jakarta Servlets
