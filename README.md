@@ -12,3 +12,4 @@ Might need to get scarlet and tomcat server running. Can supply if requested.
 
 Java version 11
 Tomcat version 10.0.3
+Jakarta Servlets
